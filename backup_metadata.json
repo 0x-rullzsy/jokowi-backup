@@ -1,6 +1,13 @@
 {
     "backups": [
         {
+            "filename": "json_malthera_v2.zip",
+            "display_name": "Json Malthera V2",
+            "size": 1224291,
+            "uploaded": 1771825072,
+            "modified": 1771825072
+        },
+        {
             "filename": "json_mount_kings_obstacle.zip",
             "display_name": "Json Kings Obstacle",
             "size": 4527188,
